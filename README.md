@@ -91,9 +91,7 @@ Replace `your_mongo_db_connection_string`, `your_jwt_secret`, `your_tmdb_api_key
 
 1. Start the backend server:
    ```bash
-   npm start
-   # or
-   yarn start
+   node index.js
    ```
 2. The server will run at `http://localhost:5000` by default.
 
