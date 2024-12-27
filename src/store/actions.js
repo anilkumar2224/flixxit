@@ -3,7 +3,7 @@ import axios from "axios";
 
 import { Button, message } from 'antd';
 
-const BASE_URL = "https://flixxit-backend-5f8tcxz7i-anils-projects-2ee19758.vercel.app/api";
+const BASE_URL = "https://flixxit-backend-k2bujl8d0-anils-projects-2ee19758.vercel.app/api";
 
 
 
